@@ -3,7 +3,7 @@
     margin-top: 0;
     height: 100vh;
     background-color: #F90716;
-    position: sticky;
+    position: static;
     top: 50px;
 }
 
@@ -38,4 +38,8 @@
 margin-right: 5px;
 font-size: 15px !important; 
 
+}
+
+.sidebarTitle{
+    padding-left: 25px;
 }
